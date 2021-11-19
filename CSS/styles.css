@@ -80,13 +80,13 @@ p{
 
 .mic-image{
     width: 25%;
-    float: left;
+    float: right;
     margin-right: 20px;
 }
 
 .html-image{
     width: 25%;
-    float: right;
+    float: left;
     margin-left: 20px;
 }
 
